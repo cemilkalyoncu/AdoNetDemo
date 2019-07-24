@@ -1,0 +1,18 @@
+c:\users\cemil.kalyoncu\documents\visual studio 2015\Projects\AdoNetDemo\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+c:\users\cemil.kalyoncu\documents\visual studio 2015\Projects\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.csprojResolveAssemblyReference.cache
+c:\users\cemil.kalyoncu\documents\visual studio 2015\Projects\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+c:\users\cemil.kalyoncu\documents\visual studio 2015\Projects\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+c:\users\cemil.kalyoncu\documents\visual studio 2015\Projects\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.Cache
+c:\users\cemil.kalyoncu\documents\visual studio 2015\Projects\AdoNetDemo\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+c:\users\cemil.kalyoncu\documents\visual studio 2015\Projects\AdoNetDemo\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+c:\users\cemil.kalyoncu\documents\visual studio 2015\Projects\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+c:\users\cemil.kalyoncu\documents\visual studio 2015\Projects\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
+F:\AdoNetDemo\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+F:\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+F:\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
+F:\AdoNetDemo\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+F:\AdoNetDemo\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+F:\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.csprojResolveAssemblyReference.cache
+F:\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+F:\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+F:\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.Cache
